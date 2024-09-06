@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\Kordamine\bin\Debug\net8.0\Kordamine.exe
+C:\Users\opilane\source\repos\Kordamine\bin\Debug\net8.0\Kordamine.deps.json
+C:\Users\opilane\source\repos\Kordamine\bin\Debug\net8.0\Kordamine.runtimeconfig.json
+C:\Users\opilane\source\repos\Kordamine\bin\Debug\net8.0\Kordamine.dll
+C:\Users\opilane\source\repos\Kordamine\bin\Debug\net8.0\Kordamine.pdb
+C:\Users\opilane\source\repos\Kordamine\obj\Debug\net8.0\Kordamine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Kordamine\obj\Debug\net8.0\Kordamine.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Kordamine\obj\Debug\net8.0\Kordamine.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Kordamine\obj\Debug\net8.0\Kordamine.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Kordamine\obj\Debug\net8.0\Kordamine.dll
+C:\Users\opilane\source\repos\Kordamine\obj\Debug\net8.0\refint\Kordamine.dll
+C:\Users\opilane\source\repos\Kordamine\obj\Debug\net8.0\Kordamine.pdb
+C:\Users\opilane\source\repos\Kordamine\obj\Debug\net8.0\Kordamine.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Kordamine\obj\Debug\net8.0\ref\Kordamine.dll
