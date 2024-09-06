@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{A83908EA-D470-4470-980D-6F4B46180EFF}|Kordamine.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A83908EA-D470-4470-980D-6F4B46180EFF}|Kordamine.csproj|c:\\users\\opilane\\source\\repos\\kordamine\\kolmnurk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A83908EA-D470-4470-980D-6F4B46180EFF}|Kordamine.csproj|solutionrelative:kolmnurk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A83908EA-D470-4470-980D-6F4B46180EFF}|Kordamine.csproj|c:\\users\\opilane\\source\\repos\\kordamine\\funktsioonid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A83908EA-D470-4470-980D-6F4B46180EFF}|Kordamine.csproj|solutionrelative:funktsioonid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83908EA-D470-4470-980D-6F4B46180EFF}|Kordamine.csproj|c:\\users\\opilane\\source\\repos\\kordamine\\kolmnurk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83908EA-D470-4470-980D-6F4B46180EFF}|Kordamine.csproj|solutionrelative:kolmnurk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Kolmnurk.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Kordamine\\Kolmnurk.cs",
               "RelativeDocumentMoniker": "Kolmnurk.cs",
@@ -43,13 +43,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Funktsioonid.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\Kordamine\\Funktsioonid.cs",
               "RelativeDocumentMoniker": "Funktsioonid.cs",
               "ToolTip": "C:\\Users\\opilane\\source\\repos\\Kordamine\\Funktsioonid.cs",
               "RelativeToolTip": "Funktsioonid.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAUwEQAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T09:51:59.14Z",
               "EditorCaption": ""
@@ -62,7 +62,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\opilane\\source\\repos\\Kordamine\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T09:48:06.551Z",
               "EditorCaption": ""

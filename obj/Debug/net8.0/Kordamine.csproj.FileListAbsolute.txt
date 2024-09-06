@@ -12,3 +12,4 @@ C:\Users\opilane\source\repos\Kordamine\obj\Debug\net8.0\refint\Kordamine.dll
 C:\Users\opilane\source\repos\Kordamine\obj\Debug\net8.0\Kordamine.pdb
 C:\Users\opilane\source\repos\Kordamine\obj\Debug\net8.0\Kordamine.genruntimeconfig.cache
 C:\Users\opilane\source\repos\Kordamine\obj\Debug\net8.0\ref\Kordamine.dll
+C:\Users\opilane\source\repos\Kordamine\obj\Debug\net8.0\Kordamine.sourcelink.json

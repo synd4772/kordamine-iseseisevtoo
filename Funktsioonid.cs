@@ -12,7 +12,7 @@ namespace Kordamine
         {
             int[,] intArray = new int[10, 10];
             int sum = 0;
-            int proizv = 1;
+            double proizv = 1;
             Random rand = new Random();
             for (int i = 0; i < intArray.GetLength(0); i++)
             {
