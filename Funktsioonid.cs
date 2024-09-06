@@ -18,7 +18,7 @@ namespace Kordamine
             {
                 for (int j = 0; j < intArray.GetLength(1); j++)
                 {
-                    intArray[i, j] = rand.Next(0, 10);
+                    intArray[i, j] = rand.Next(1, 20);
                     sum += intArray[i, j];
                     proizv = proizv * intArray[i, j];
                 }
